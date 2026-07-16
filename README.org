@@ -1,0 +1,9 @@
+* binstruct
+
+Binstruct is a feature-rich declarative binary parsing/emitting library for Common Lisp.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/binstruct.git          |
+| commit  | 0000000                                                    |
+| systems | binstruct                                                 |
+|---------+------------------------------------------------------------|
