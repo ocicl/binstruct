@@ -4,6 +4,6 @@ Binstruct is a feature-rich declarative binary parsing/emitting library for Comm
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/binstruct.git          |
-| commit  | 5c88e53                                                    |
+| commit  | 8ac6e29                                                    |
 | systems | binstruct                                                 |
 |---------+------------------------------------------------------------|
